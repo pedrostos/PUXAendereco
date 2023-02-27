@@ -16,7 +16,7 @@
   display: flex;
   justify-content: space-between;
   padding: 1%;
-  margin-bottom: 1%;
+  margin-bottom: 3%;
   background-color: rgba(0, 0, 0, 0.3);
   border-radius: 8px;
   width: 90%;
@@ -59,7 +59,7 @@
 }
 
 .erro {
-  padding: 5%;
+  padding: 1%;
   font-weight: bolder;
 }
 
